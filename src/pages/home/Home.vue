@@ -1,10 +1,7 @@
 <template>
 
   <div>
-    <div class="home">Home首页</div>
-
-    <router-link to="/list">列表页</router-link>
-
+    Hello World
   </div>
 
 </template>
@@ -20,9 +17,5 @@ export default {
 
 <style scoped>
 
-  .home{
-    font-size: 30px;
-    color: #990000;
-  }
 
 </style>
